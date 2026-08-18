@@ -1,0 +1,4 @@
+interface:
+  display_name: "绿麦芽的万能产品拆解大法宝"
+  short_description: "基于证据拆解任意 AI 产品的用户流、Agent 与架构"
+  default_prompt: "Use $lvmaiya-product-deconstruction to analyze this product from screenshots, pages, and artifacts."
